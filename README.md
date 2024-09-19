@@ -2,7 +2,7 @@
 • Clone your project repository to your local machine:
 
 1. Open your terminal or command prompt.
-2. Run the command: git clone https://github.com/yourusername/flask-mongo-crud.git
+2. Run the command: git clone [https://github.com/yourusername/flask-mongo-crud.git](https://github.com/shrinathasati/Curd_operation_using_flask.git)
 3. Navigate to the project directory by running: cd flask-mongo-crud Install Docker and Docker Compose • Ensure that Docker and Docker Compose are installed on your machine. If they are not installed, download and install them from the Docker website.
 ## Set Up Your Project
 • Ensure your project directory contains all the necessary files: o app/init.py o app/config.py o app/models.py o app/routes.py o Dockerfile o docker-compose.yml o requirements.txt o README.md
