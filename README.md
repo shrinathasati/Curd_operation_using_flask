@@ -26,7 +26,7 @@
 
 1. init.py
 2. routing/init.py
-3. routes/routes.py
+3. routing/routes.py
 4. services/init.py
 5. services/create.py
 6. services/read.py
