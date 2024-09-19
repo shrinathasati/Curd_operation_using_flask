@@ -25,15 +25,19 @@
 • app
 
 1. init.py
-2. routes/init.py
-3. routes/user_routes.py
+2. routing/init.py
+3. routes/routes.py
 4. services/init.py
-5. services/user_service.py
-6. config.py
-7. models.py
-• tests
+5. services/create.py
+6. services/read.py
+7. services/update.py
+8. services/delete.py
+9. services/all_user.py
+10. config.py
+11. models.py
+• test_section
 
-1. test_user.py
+1. test_file.py
 • docker-compose.yml
 
 • Dockerfile
